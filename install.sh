@@ -1,14 +1,14 @@
  #!/bin/bash
  
-# apt update
-# apt upgrade
+apt update
+apt upgrade
 
-# conda remove ffmpeg -y
+conda remove ffmpeg -y
 
-# apt install libgl1 libglib2.0-0 ffmpeg gcc build-essential nginx -y
-# apt install software-properties-common
-# apt install python3-launchpadlib
-# apt update
+apt install libgl1 libglib2.0-0 ffmpeg gcc build-essential nginx -y
+apt install software-properties-common
+apt install python3-launchpadlib
+apt update
 
 
 cd
