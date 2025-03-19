@@ -109,6 +109,7 @@ class SD(DiffusionInpaintModel):
         return output
 
 
+
 class SD15(SD):
     name = "runwayml/stable-diffusion-inpainting"
     model_id_or_path = "runwayml/stable-diffusion-inpainting"
